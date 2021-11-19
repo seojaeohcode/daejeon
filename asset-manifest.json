@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/daejeon/static/css/main.ba19133e.chunk.css",
+    "main.js": "/daejeon/static/js/main.f6c883ed.chunk.js",
+    "main.js.map": "/daejeon/static/js/main.f6c883ed.chunk.js.map",
+    "runtime-main.js": "/daejeon/static/js/runtime-main.f67b381b.js",
+    "runtime-main.js.map": "/daejeon/static/js/runtime-main.f67b381b.js.map",
+    "static/js/2.e4998dfd.chunk.js": "/daejeon/static/js/2.e4998dfd.chunk.js",
+    "static/js/2.e4998dfd.chunk.js.map": "/daejeon/static/js/2.e4998dfd.chunk.js.map",
+    "index.html": "/daejeon/index.html",
+    "static/css/main.ba19133e.chunk.css.map": "/daejeon/static/css/main.ba19133e.chunk.css.map",
+    "static/js/2.e4998dfd.chunk.js.LICENSE.txt": "/daejeon/static/js/2.e4998dfd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f67b381b.js",
+    "static/js/2.e4998dfd.chunk.js",
+    "static/css/main.ba19133e.chunk.css",
+    "static/js/main.f6c883ed.chunk.js"
+  ]
+}
